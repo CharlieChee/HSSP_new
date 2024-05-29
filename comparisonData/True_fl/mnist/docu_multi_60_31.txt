@@ -1,1 +1,0 @@
-Round: 5, Attack Type: Multi Attack, Error: Exception: 'sage.rings.integer.Integer' object has no attribute 'T', Time: None, NFound: None, Coef: None

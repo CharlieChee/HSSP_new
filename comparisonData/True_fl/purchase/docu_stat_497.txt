@@ -1,3 +1,0 @@
-Round: 6, Attack Type: Statistical Attack, Error: 0, Time: 0.08211779594421387, NFound: 9, Coef: 9
-Round: 7, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
-Round: 9, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None

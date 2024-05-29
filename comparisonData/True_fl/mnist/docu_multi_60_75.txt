@@ -1,1 +1,0 @@
-Round: 5, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
