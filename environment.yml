@@ -1,0 +1,7 @@
+name: my-sagemath-env
+channels:
+  - conda-forge
+dependencies:
+  - sagemath
+  - jupyterlab
+  - python=3.8
