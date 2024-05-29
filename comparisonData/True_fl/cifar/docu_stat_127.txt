@@ -1,0 +1,49 @@
+Round: 1, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 2, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 3, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 4, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 5, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 6, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 7, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 8, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 10, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 11, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 12, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 13, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 14, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 15, Attack Type: Statistical Attack, Error: 0, Time: 0.16215085983276367, NFound: 10, Coef: 10
+Round: 16, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 17, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 18, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 19, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 20, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 21, Attack Type: Statistical Attack, Error: 0, Time: 0.21176695823669434, NFound: 7, Coef: 7
+Round: 22, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 23, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 24, Attack Type: Statistical Attack, Error: 0, Time: 0.2050621509552002, NFound: 9, Coef: 9
+Round: 25, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 26, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 27, Attack Type: Statistical Attack, Error: 0, Time: 0.248809814453125, NFound: 9, Coef: 9
+Round: 28, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 29, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 30, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 31, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 32, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 33, Attack Type: Statistical Attack, Error: 5, Time: None, NFound: None, Coef: None
+Round: 34, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 35, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 36, Attack Type: Statistical Attack, Error: 0, Time: 0.41853904724121094, NFound: 9, Coef: 9
+Round: 37, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 38, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 39, Attack Type: Statistical Attack, Error: 0, Time: 0.392564058303833, NFound: 10, Coef: 10
+Round: 40, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 41, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 42, Attack Type: Statistical Attack, Error: 0, Time: 0.45172595977783203, NFound: 7, Coef: 9
+Round: 43, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 44, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 45, Attack Type: Statistical Attack, Error: 0, Time: 0.49181199073791504, NFound: 10, Coef: 10
+Round: 46, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 47, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 48, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
+Round: 49, Attack Type: Statistical Attack, Error: 0, Time: 0.5782711505889893, NFound: 10, Coef: 10

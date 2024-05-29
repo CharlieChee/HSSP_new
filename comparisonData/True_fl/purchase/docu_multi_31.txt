@@ -1,0 +1,15 @@
+Round: 6, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Multi Attack, Error: 0, Time: 0.10387206077575684, NFound: 10, Coef: 10
+Round: 12, Attack Type: Multi Attack, Error: Exception: 'sage.rings.integer.Integer' object has no attribute 'T', Time: None, NFound: None, Coef: None
+Round: 15, Attack Type: Multi Attack, Error: 0, Time: 0.1576988697052002, NFound: 10, Coef: 10
+Round: 18, Attack Type: Multi Attack, Error: 0, Time: 0.15700602531433105, NFound: 10, Coef: 10
+Round: 21, Attack Type: Multi Attack, Error: 0, Time: 0.19944286346435547, NFound: 10, Coef: 10
+Round: 24, Attack Type: Multi Attack, Error: 0, Time: 0.22927308082580566, NFound: 10, Coef: 10
+Round: 27, Attack Type: Multi Attack, Error: 0, Time: 0.29099321365356445, NFound: 10, Coef: 10
+Round: 30, Attack Type: Multi Attack, Error: 0, Time: 0.31946611404418945, NFound: 10, Coef: 10
+Round: 33, Attack Type: Multi Attack, Error: 0, Time: 0.3175208568572998, NFound: 10, Coef: 10
+Round: 36, Attack Type: Multi Attack, Error: 0, Time: 0.37739109992980957, NFound: 10, Coef: 10
+Round: 39, Attack Type: Multi Attack, Error: 0, Time: 0.42667531967163086, NFound: 10, Coef: 10
+Round: 42, Attack Type: Multi Attack, Error: 0, Time: 0.4889233112335205, NFound: 10, Coef: 10
+Round: 45, Attack Type: Multi Attack, Error: 0, Time: 0.507310152053833, NFound: 10, Coef: 10
+Round: 49, Attack Type: Multi Attack, Error: 0, Time: 0.6812608242034912, NFound: 10, Coef: 10

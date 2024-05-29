@@ -1,0 +1,15 @@
+Round: 6, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Multi Attack, Error: 0, Time: 0.1143791675567627, NFound: 10, Coef: 10
+Round: 12, Attack Type: Multi Attack, Error: 0, Time: 0.12476682662963867, NFound: 10, Coef: 10
+Round: 15, Attack Type: Multi Attack, Error: 0, Time: 0.15046405792236328, NFound: 10, Coef: 10
+Round: 18, Attack Type: Multi Attack, Error: 0, Time: 0.17270517349243164, NFound: 10, Coef: 10
+Round: 21, Attack Type: Multi Attack, Error: 0, Time: 0.21289896965026855, NFound: 10, Coef: 10
+Round: 24, Attack Type: Multi Attack, Error: 0, Time: 0.25336694717407227, NFound: 10, Coef: 10
+Round: 27, Attack Type: Multi Attack, Error: 0, Time: 0.27573299407958984, NFound: 10, Coef: 10
+Round: 30, Attack Type: Multi Attack, Error: 0, Time: 0.3524947166442871, NFound: 10, Coef: 10
+Round: 33, Attack Type: Multi Attack, Error: 0, Time: 0.3561060428619385, NFound: 10, Coef: 10
+Round: 36, Attack Type: Multi Attack, Error: 0, Time: 0.39909815788269043, NFound: 10, Coef: 10
+Round: 39, Attack Type: Multi Attack, Error: 0, Time: 0.43164801597595215, NFound: 10, Coef: 10
+Round: 42, Attack Type: Multi Attack, Error: 0, Time: 0.4742240905761719, NFound: 10, Coef: 10
+Round: 45, Attack Type: Multi Attack, Error: 0, Time: 0.5204191207885742, NFound: 10, Coef: 10
+Round: 49, Attack Type: Multi Attack, Error: 0, Time: 0.5964260101318359, NFound: 10, Coef: 10

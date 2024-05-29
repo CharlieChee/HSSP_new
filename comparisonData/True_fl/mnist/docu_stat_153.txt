@@ -1,0 +1,16 @@
+Round: 6, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 7, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 8, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 12, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 15, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 18, Attack Type: Statistical Attack, Error: 0, Time: 0.15960693359375, NFound: 2, Coef: 4
+Round: 21, Attack Type: Statistical Attack, Error: 0, Time: 0.1905651092529297, NFound: 3, Coef: 4
+Round: 24, Attack Type: Statistical Attack, Error: 0, Time: 0.22774982452392578, NFound: 3, Coef: 4
+Round: 27, Attack Type: Statistical Attack, Error: 0, Time: 0.30877208709716797, NFound: 2, Coef: 5
+Round: 33, Attack Type: Statistical Attack, Error: 0, Time: 0.3361029624938965, NFound: 7, Coef: 5
+Round: 36, Attack Type: Statistical Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 39, Attack Type: Statistical Attack, Error: 0, Time: 0.3971829414367676, NFound: 6, Coef: 4
+Round: 42, Attack Type: Statistical Attack, Error: 0, Time: 0.4352450370788574, NFound: 5, Coef: 4
+Round: 45, Attack Type: Statistical Attack, Error: 0, Time: 0.4851267337799072, NFound: 5, Coef: 4
+Round: 49, Attack Type: Statistical Attack, Error: 0, Time: 0.5492448806762695, NFound: 6, Coef: 5

@@ -1,0 +1,8 @@
+{
+  "global_epochs" : 2,
+  "batch_size" : 10,
+  "lr" : 0.03,
+  "save_batch_idx" : 0,
+  "first_layer_neurons" : 500,
+  "client_num": 10
+}

@@ -1,0 +1,16 @@
+Round: 3, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 6, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Multi Attack, Error: 0, Time: 0.1153860092163086, NFound: 10, Coef: 10
+Round: 12, Attack Type: Multi Attack, Error: 0, Time: 0.13698792457580566, NFound: 10, Coef: 10
+Round: 15, Attack Type: Multi Attack, Error: 0, Time: 0.14671802520751953, NFound: 10, Coef: 10
+Round: 18, Attack Type: Multi Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 21, Attack Type: Multi Attack, Error: 0, Time: 0.18180584907531738, NFound: 10, Coef: 10
+Round: 24, Attack Type: Multi Attack, Error: 0, Time: 0.2555999755859375, NFound: 10, Coef: 10
+Round: 27, Attack Type: Multi Attack, Error: 0, Time: 0.3219008445739746, NFound: 10, Coef: 10
+Round: 30, Attack Type: Multi Attack, Error: 0, Time: 0.27843403816223145, NFound: 10, Coef: 10
+Round: 33, Attack Type: Multi Attack, Error: 0, Time: 0.3350260257720947, NFound: 10, Coef: 10
+Round: 36, Attack Type: Multi Attack, Error: 0, Time: 0.37194395065307617, NFound: 10, Coef: 10
+Round: 39, Attack Type: Multi Attack, Error: Exception: 'sage.rings.integer.Integer' object has no attribute 'T', Time: None, NFound: None, Coef: None
+Round: 42, Attack Type: Multi Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 45, Attack Type: Multi Attack, Error: 0, Time: 0.5095980167388916, NFound: 10, Coef: 10
+Round: 49, Attack Type: Multi Attack, Error: 0, Time: 0.5383470058441162, NFound: 10, Coef: 10

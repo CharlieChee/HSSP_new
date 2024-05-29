@@ -1,0 +1,16 @@
+Round: 3, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 6, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Multi Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 12, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 15, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 18, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 21, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 24, Attack Type: Multi Attack, Error: 0, Time: 0.18686699867248535, NFound: 10, Coef: 10
+Round: 27, Attack Type: Multi Attack, Error: 0, Time: 0.23795199394226074, NFound: 10, Coef: 10
+Round: 30, Attack Type: Multi Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 33, Attack Type: Multi Attack, Error: 0, Time: 0.3286309242248535, NFound: 10, Coef: 10
+Round: 36, Attack Type: Multi Attack, Error: 0, Time: 0.32941508293151855, NFound: 10, Coef: 10
+Round: 39, Attack Type: Multi Attack, Error: 0, Time: 0.38900017738342285, NFound: 10, Coef: 10
+Round: 42, Attack Type: Multi Attack, Error: 0, Time: 0.4445500373840332, NFound: 10, Coef: 10
+Round: 45, Attack Type: Multi Attack, Error: 0, Time: 0.4790818691253662, NFound: 10, Coef: 10
+Round: 49, Attack Type: Multi Attack, Error: 0, Time: 0.5403079986572266, NFound: 10, Coef: 10

@@ -1,0 +1,15 @@
+Round: 1, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 1, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 1, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 2, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 2, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 2, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 3, Attack Type: NS Attack, Error: Exception: unsupported operand parent(s) for *: 'Full MatrixSpace of 0 by 0 dense matrices over Ring of integers modulo 726795350790987238613250105551' and 'Full MatrixSpace of 20 by 10 dense matrices over Integer Ring', Time: None, NFound: None, Coef: None
+Round: 3, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 3, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 4, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 4, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 4, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 5, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 5, Attack Type: Multi Attack, Error: 3, Time: None, NFound: None, Coef: None
+Round: 5, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None

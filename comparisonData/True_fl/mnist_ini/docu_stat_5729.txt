@@ -1,0 +1,2 @@
+Round: 1, Attack Type: Statistical Attack, Error: Exception: input matrix must be nonsingular, Time: None, NFound: None, Coef: None
+Round: 2, Attack Type: Statistical Attack, Error: 0, Time: 0.12412381172180176, NFound: 1, Coef: 3

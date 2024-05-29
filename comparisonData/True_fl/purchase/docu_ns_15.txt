@@ -1,0 +1,17 @@
+Round: 1, Attack Type: NS Attack, Error: 0, Time: 0.026698827743530273, NFound: 10, Coef: 10
+Round: 3, Attack Type: NS Attack, Error: 0, Time: 0.028336763381958008, NFound: 10, Coef: 10
+Round: 6, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: NS Attack, Error: 0, Time: 0.39754605293273926, NFound: 10, Coef: 10
+Round: 12, Attack Type: NS Attack, Error: 0, Time: 0.8043887615203857, NFound: 10, Coef: 10
+Round: 15, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 18, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 21, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 24, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 27, Attack Type: NS Attack, Error: 0, Time: 7.416455984115601, NFound: 10, Coef: 10
+Round: 30, Attack Type: NS Attack, Error: 0, Time: 10.417255878448486, NFound: 10, Coef: 10
+Round: 33, Attack Type: NS Attack, Error: 0, Time: 14.900205135345459, NFound: 10, Coef: 10
+Round: 36, Attack Type: NS Attack, Error: 0, Time: 21.766944885253906, NFound: 10, Coef: 10
+Round: 39, Attack Type: NS Attack, Error: 1, Time: None, NFound: None, Coef: None
+Round: 42, Attack Type: NS Attack, Error: 0, Time: 37.985310316085815, NFound: 10, Coef: 10
+Round: 45, Attack Type: NS Attack, Error: 0, Time: 46.25693702697754, NFound: 10, Coef: 10
+Round: 49, Attack Type: NS Attack, Error: 0, Time: 59.06797504425049, NFound: 10, Coef: 10

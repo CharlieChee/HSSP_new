@@ -1,0 +1,28 @@
+Round: 1, Attack Type: NS Attack, Error: 0, Time: 0.014409065246582031, NFound: 10, Coef: 10
+Round: 1, Attack Type: Multi Attack, Error: 3, Time: 0.014409065246582031, NFound: 10, Coef: 10
+Round: 1, Attack Type: Statistical Attack, Error: 4, Time: 0.014409065246582031, NFound: 10, Coef: 10
+Round: 2, Attack Type: NS Attack, Error: 0, Time: 0.023221969604492188, NFound: 10, Coef: 10
+Round: 2, Attack Type: Multi Attack, Error: 3, Time: 0.023221969604492188, NFound: 10, Coef: 10
+Round: 2, Attack Type: Statistical Attack, Error: 4, Time: 0.023221969604492188, NFound: 10, Coef: 10
+Round: 3, Attack Type: NS Attack, Error: 0, Time: 0.0388641357421875, NFound: 10, Coef: 10
+Round: 3, Attack Type: Multi Attack, Error: 3, Time: 0.0388641357421875, NFound: 10, Coef: 10
+Round: 3, Attack Type: Statistical Attack, Error: 3, Time: 0.09588503837585449, NFound: 4, Coef: 6
+Round: 4, Attack Type: NS Attack, Error: 0, Time: 0.0702357292175293, NFound: 10, Coef: 10
+Round: 4, Attack Type: Multi Attack, Error: 3, Time: 0.0702357292175293, NFound: 10, Coef: 10
+Round: 4, Attack Type: Statistical Attack, Error: 3, Time: 0.04625082015991211, NFound: 10, Coef: 10
+Round: 5, Attack Type: NS Attack, Error: 0, Time: 0.10272908210754395, NFound: 10, Coef: 10
+Round: 5, Attack Type: Multi Attack, Error: 0, Time: 0.07492303848266602, NFound: 10, Coef: 10
+Round: 5, Attack Type: Statistical Attack, Error: 0, Time: 0.05800509452819824, NFound: 10, Coef: 10
+Round: 6, Attack Type: NS Attack, Error: 0, Time: 0.15821504592895508, NFound: 10, Coef: 10
+Round: 6, Attack Type: Multi Attack, Error: Exception: 'sage.rings.integer.Integer' object has no attribute 'T', Time: 0.15821504592895508, NFound: 10, Coef: 10
+Round: 7, Attack Type: NS Attack, Error: 0, Time: 0.21350502967834473, NFound: 10, Coef: 10
+Round: 7, Attack Type: Multi Attack, Error: 0, Time: 0.09023213386535645, NFound: 10, Coef: 10
+Round: 7, Attack Type: Statistical Attack, Error: 0, Time: 0.06219792366027832, NFound: 10, Coef: 10
+Round: 8, Attack Type: NS Attack, Error: 0, Time: 0.2986891269683838, NFound: 10, Coef: 10
+Round: 8, Attack Type: Multi Attack, Error: 0, Time: 0.09067797660827637, NFound: 10, Coef: 10
+Round: 8, Attack Type: Statistical Attack, Error: 0, Time: 0.07515096664428711, NFound: 10, Coef: 10
+Round: 9, Attack Type: NS Attack, Error: 0, Time: 0.42262983322143555, NFound: 10, Coef: 10
+Round: 9, Attack Type: Multi Attack, Error: 0, Time: 0.09479403495788574, NFound: 10, Coef: 10
+Round: 9, Attack Type: Statistical Attack, Error: 0, Time: 0.07575607299804688, NFound: 10, Coef: 10
+Round: 10, Attack Type: NS Attack, Error: 0, Time: 0.5397579669952393, NFound: 10, Coef: 10
+Round: 10, Attack Type: Multi Attack, Error: Exception: 'sage.rings.integer.Integer' object has no attribute 'T', Time: 0.5397579669952393, NFound: 10, Coef: 10

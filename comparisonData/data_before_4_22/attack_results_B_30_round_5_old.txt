@@ -1,0 +1,15 @@
+Round: 1, Attack Type: NS Attack, Error: 0, Time: 13.509015083312988, NFound: 20, Coef: 20
+Round: 1, Attack Type: Multi Attack, Error: 0, Time: 12.923994779586792, NFound: 20, Coef: 20
+Round: 1, Attack Type: Statistical Attack, Error: 0, Time: 0.4674859046936035, NFound: 20, Coef: 20
+Round: 2, Attack Type: NS Attack, Error: 0, Time: 12.238681077957153, NFound: 20, Coef: 20
+Round: 2, Attack Type: Multi Attack, Error: 0, Time: 13.181655168533325, NFound: 20, Coef: 20
+Round: 2, Attack Type: Statistical Attack, Error: 0, Time: 0.41614842414855957, NFound: 20, Coef: 20
+Round: 3, Attack Type: NS Attack, Error: 0, Time: 13.12591004371643, NFound: 20, Coef: 20
+Round: 3, Attack Type: Multi Attack, Error: 0, Time: 13.080380916595459, NFound: 20, Coef: 20
+Round: 3, Attack Type: Statistical Attack, Error: 0, Time: 0.39430999755859375, NFound: 20, Coef: 20
+Round: 4, Attack Type: NS Attack, Error: 0, Time: 14.017200946807861, NFound: 20, Coef: 20
+Round: 4, Attack Type: Multi Attack, Error: 0, Time: 14.054781913757324, NFound: 20, Coef: 20
+Round: 4, Attack Type: Statistical Attack, Error: 0, Time: 0.5773229598999023, NFound: 20, Coef: 20
+Round: 5, Attack Type: NS Attack, Error: 0, Time: 13.474807024002075, NFound: 20, Coef: 20
+Round: 5, Attack Type: Multi Attack, Error: 0, Time: 13.592298984527588, NFound: 20, Coef: 20
+Round: 5, Attack Type: Statistical Attack, Error: 0, Time: 0.4148571491241455, NFound: 20, Coef: 20

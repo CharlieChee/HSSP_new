@@ -1,0 +1,16 @@
+Round: 6, Attack Type: Statistical Attack, Error: 0, Time: 0.05997204780578613, NFound: 1, Coef: 1
+Round: 7, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 9, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 12, Attack Type: Statistical Attack, Error: 0, Time: 0.1398921012878418, NFound: 1, Coef: 1
+Round: 15, Attack Type: Statistical Attack, Error: 0, Time: 0.12294983863830566, NFound: 2, Coef: 4
+Round: 18, Attack Type: Statistical Attack, Error: 0, Time: 0.1540837287902832, NFound: 1, Coef: 5
+Round: 21, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 24, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 27, Attack Type: Statistical Attack, Error: 0, Time: 0.2441720962524414, NFound: 7, Coef: 5
+Round: 30, Attack Type: Statistical Attack, Error: 0, Time: 0.2825338840484619, NFound: 5, Coef: 5
+Round: 33, Attack Type: Statistical Attack, Error: 0, Time: 0.5824370384216309, NFound: 3, Coef: 2
+Round: 36, Attack Type: Statistical Attack, Error: 4, Time: None, NFound: None, Coef: None
+Round: 39, Attack Type: Statistical Attack, Error: 0, Time: 0.41706395149230957, NFound: 6, Coef: 5
+Round: 42, Attack Type: Statistical Attack, Error: 0, Time: 0.45098185539245605, NFound: 7, Coef: 6
+Round: 45, Attack Type: Statistical Attack, Error: 0, Time: 0.5227229595184326, NFound: 2, Coef: 5
+Round: 49, Attack Type: Statistical Attack, Error: 0, Time: 0.6286847591400146, NFound: 3, Coef: 4

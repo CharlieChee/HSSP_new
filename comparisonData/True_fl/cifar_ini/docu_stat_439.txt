@@ -1,0 +1,2 @@
+Round: 1, Attack Type: Statistical Attack, Error: 0, Time: 0.0705709457397461, NFound: 10, Coef: 10
+Round: 2, Attack Type: Statistical Attack, Error: Exception: cannot access local variable 'Bi' where it is not associated with a value, Time: None, NFound: None, Coef: None
